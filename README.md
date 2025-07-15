@@ -6,5 +6,5 @@ This covers the process from downloading raw data and processing it, to differen
 ## Abstract
  <img src="docs/abstract.png" style="align:center" />
 
-## Workflow Overview 
+## Workflow Overview
  <img src="docs/workflow.png" style="align:center" />
